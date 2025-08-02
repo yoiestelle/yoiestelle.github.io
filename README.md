@@ -1,5 +1,3 @@
-# Data Scientist 
-
 
 ### Education					                                                             			    	                                           
 - M.A., Quantitative Methods in the Social Sciences – Data Science Focus  | Columbia Uuniversity (_May 2025_)
