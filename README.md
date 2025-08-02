@@ -5,9 +5,8 @@
       		    		                          
 ### Projects & Publication 
 #### AI Trust & Governance 
-Cultural Fidelity in Large-Language Models: An Evaluation of Online Language Resources as a Driver of Model Performance in Value Representation
 **Cultural Fidelity in Large-Language Models: An Evaluation of Online Language Resources as a Driver of Model Performance in Value Representation**  
-**Sharif Kazemi, Gloria Gerhardt, Jonty Katz, Caroline Ida Kuria, Estelle Pan, Umang Prabhakar**
+Sharif Kazemi, Gloria Gerhardt, Jonty Katz, Caroline Ida Kuria, Estelle Pan, Umang Prabhakar
 
 This study examines how cultural familiarity and digital language resources affect the performance of large language models (LLMs). Key findings include:
 
